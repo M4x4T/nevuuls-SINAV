@@ -2,7 +2,7 @@
 
 
 ---
-**notlar yalnış bilgi içerebilir ve esas degilde yardımcı kaynak olarak tasarlanmıştır**
+**notlar yalnış bilgi içerebilir ve esas degil'de yardımcı kaynak olarak tasarlanmıştır**
 
 katkıda bulunmak için 
 
