@@ -3,7 +3,7 @@
 
 ---
 ### 1. Genel Tanım
-Türkçenin güncel sorunları; **küreselleşme, teknoloji, eğitim ve medya** etkisiyle dilin doğru, bilinçli ve işlevsel kullanımının zayıflamasıdır. Sorunların kaynağı dilin yapısı değil, **kullanım ve dil bilinci eksikliğidir**. fileciteturn7file0
+Türkçenin güncel sorunları; **küreselleşme, teknoloji, eğitim ve medya** etkisiyle dilin doğru, bilinçli ve işlevsel kullanımının zayıflamasıdır. Sorunların kaynağı dilin yapısı değil, **kullanım ve dil bilinci eksikliğidir**.
 
 ---
 ### 2. Başlıca Güncel Sorunlar
