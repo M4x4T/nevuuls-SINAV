@@ -109,6 +109,12 @@ Eleştirel:
 
 ---
 
+---
+
+![alt text](image.png)
+
+---
+
 # 6️⃣ Temel Fark
 
 | Eleştirel Teori            | Post-Yapısalcılık          |
