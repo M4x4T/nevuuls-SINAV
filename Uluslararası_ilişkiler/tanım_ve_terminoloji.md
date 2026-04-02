@@ -24,3 +24,10 @@ Türkçe: Kuzey Atlantik Antlaşması Örgütü
 <img width="626" height="424" alt="image" src="https://github.com/user-attachments/assets/d96938d4-8e5b-482f-a708-bd51ac801ae7" />
 
 4 Nisan 1949 tarihinde Washington Antlaşması ile kurulmuştur. Temel amacı, üye ülkelerin özgürlük ve güvenliklerini siyasi ve askeri yollarla korumaktır. En meşhur ilkesi, bir üye devlete yapılan saldırının tüm üyelere yapılmış sayılacağını belirten 5. Madde'dir.
+
+
+Uluslararası ilişkilerde aktörler
+
+
+<img width="1018" height="425" alt="image" src="https://github.com/user-attachments/assets/f7c3071a-f431-41f1-a75d-e410bb07269b" />
+
