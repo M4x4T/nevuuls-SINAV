@@ -90,6 +90,9 @@ Ekonomik güçleriyle devlet politikalarını etkileyebilirler.
 
 Sonuç olarak uluslararası ilişkiler çok aktörlü bir yapıya sahiptir.
 
+<img width="1018" height="425" alt="image" src="https://github.com/user-attachments/assets/6a5d5658-f3f3-4754-b1bf-76d45efdc769" />
+
+
 ---
 
 
